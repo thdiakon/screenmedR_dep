@@ -52,8 +52,8 @@ screenmed <- function(initial_search,filtered,sparcity,group_number){
     #sum(Big$Abstracts_Big != "")
 
     #removing blanks (From RISMED)
-    Big<-Big[! Big$Abstracts_Big=="", ]
-    Small<-Small[! Small$Abstracts_Small=="", ]
+    Big<-Big[! Big$Abstracts_Big=="na", ]
+    Small<-Small[! Small$Abstracts_Small=="na", ]
 
     #Create the big dtm matrix with tm for clustering (Loop begin)
     #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
