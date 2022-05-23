@@ -19,9 +19,9 @@ More info about the program and its functions can be found in the [vignette](htt
 ## References
 
 Feinerer, Ingo, Kurt Hornik, and David Meyer. 2008. “Text Mining Infrastructure in r.” Journal of Statistical
-Software 25 (5): 1–54. [tm](https://www.jstatsoft.org/v25/i05/)
+Software 25 (5): 1–54. ([tm](https://www.jstatsoft.org/v25/i05/))
 
 Kovalchik, Stephanie. n.d. “RISmed: A Set of Tools to Extract Bibliographic Content from the National
-Center for Biotechnology Information (NCBI) Databases, Including PubMed.” [RISMED](https://CRAN.R-project.org/package=RISmed)
+Center for Biotechnology Information (NCBI) Databases, Including PubMed.” ([RISMED](https://CRAN.R-project.org/package=RISmed))
 
 Winter, David J. 2017. “rentrez: An r Package for the NCBI eUtils API.” The R Journal 9: 520–26.
