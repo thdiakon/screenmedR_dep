@@ -13,7 +13,7 @@ devtools::install_github('thdiakon/screenmedR')
 
 ## Analytical instructions and a case study
 
-More info about the program and its functions can be found in the [vignette](https://github.com/thdiakon/screenmedR/blob/main/vignettes/vignette_21_6_2021.pdf).
+More info about the program and its functions can be found in the [vignette](https://github.com/thdiakon/screenmedR/blob/main/vignettes/vignette_27_5_2022.pdf).
 
 
 ## References
