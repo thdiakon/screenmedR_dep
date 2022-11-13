@@ -1,4 +1,4 @@
-# screenmedR <img src='man/pubmed.png' align="right" width="120" />
+# screenmedR <img src='man/pubmed3.png' align="right" width="120" />
 
 ## Overview
 
